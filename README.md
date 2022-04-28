@@ -44,11 +44,11 @@ const result = masonPages('w')
 
 - Type: `string`
 - Details: host string
-- Default: `'zce.me'`
+- Default: `'mason.me'`
 
 ## Related
 
-- [zce/caz](https://github.com/zce/caz) - A simple yet powerful template-based Scaffolding tools.
+- [mason](https://github.com/BigOld) - A simple yet powerful template-based Scaffolding tools.
 
 ## Contributing
 
